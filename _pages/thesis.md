@@ -39,7 +39,7 @@ These LUTs store maneuver decisions depending on aircraft states.
 - **WL / SL** (Weak / Strong Left)  
 - **WR / SR** (Weak / Strong Right)  
 
-![ACAS advisories](github.com/MartinBoniol/martinboniol.github.io/blob/main/assets/img/acas-advisories.png)
+![ACAS advisories](martinboniol.github.io/blob/main/assets/img/acas-advisories.png)
 ![ACAS-Xu geometry]([acas-horizontal.png](https://github.com/MartinBoniol/martinboniol.github.io/blob/main/assets/img/acas-horizontal.png))
 
 ---
