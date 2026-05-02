@@ -34,7 +34,3 @@ redirect_from:
 #### Preprints
 
 * Martin Boniol, Julien Brunel, Jean-Baptiste Chaudron, Christophe Garion, Xavier Thirioux. **A Formal Verification approach for mitigating Neural Network approximations of Acas-Xu.** [![PDF](https://img.icons8.com/color/20/000000/pdf.png)](https://github.com/MartinBoniol/martinboniol.github.io/blob/main/assets/pdfs/A_Formal_Verification_approach_for_mitigating_Neural_Network_approwimations_of_Acas_Xu-5.pdf)
-
-#### Others
-
-* Martin Boniol, Julien Brunel, Jean-Baptiste Chaudron, Christophe Garion, Xavier Thirioux. **Verification of Neural Networks as a Replacement for LUTs in ACAS-Xu.** Journées FAC Toulouse (formalization of competing activities) [![PDF](https://img.icons8.com/color/20/000000/pdf.png)](https://github.com/MartinBoniol/martinboniol.github.io/blob/main/assets/pdfs/fac_paper_2025.pdf)
